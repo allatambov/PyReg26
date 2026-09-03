@@ -5,5 +5,5 @@
 ### Неделя 1. Введение в Python. Массивы NumPy
 
 * Лекция 1. Введение в Python: написание кода, переменные, списки и массивы ([слайды](https://disk.yandex.ru/i/3lOe1ULolkZKyw), [код](https://github.com/allatambov/PyReg26/blob/main/lect01.ipynb))
-* Семинар 1. Операции с массивами NumPy: часть 1 ([https://github.com/allatambov/PyReg26/blob/main/py-seminar01.ipynb](py-seminar01.ipynb))
+* Семинар 1. Операции с массивами NumPy: часть 1 ([py-seminar01.ipynb](https://github.com/allatambov/PyReg26/blob/main/py-seminar01.ipynb))
 * Семинар 2. Операции с массивами NumPy: часть 2
