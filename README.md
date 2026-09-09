@@ -5,5 +5,13 @@
 ### Неделя 1. Введение в Python. Массивы NumPy
 
 * Лекция 1. Введение в Python: написание кода, переменные, списки и массивы ([слайды](https://disk.yandex.ru/i/3lOe1ULolkZKyw), [код](https://github.com/allatambov/PyReg26/blob/main/lect01.ipynb))
-* Семинар 1. Операции с массивами NumPy: часть 1 ([py-seminar01.ipynb](https://github.com/allatambov/PyReg26/blob/main/py-seminar01.ipynb))
-* Семинар 2. Операции с массивами NumPy: часть 2
+* Семинар 1. Операции с массивами NumPy: часть 1 ([py-seminar01.ipynb](https://github.com/allatambov/PyReg26/blob/main/py-seminar01.ipynb)), решения ([py-seminar01-solutions.ipynb](https://github.com/allatambov/PyReg26/blob/main/py-seminar01-solutions.ipynb))
+* Семинар 2. Операции с массивами NumPy: часть 2 ([py-seminar02.ipynb](https://github.com/allatambov/PyReg26/blob/main/py-seminar02.ipynb)), решения ([py-seminar02-solutions.ipynb](https://github.com/allatambov/PyReg26/blob/main/py-seminar02-solutions.ipynb))
+* Задачи для тренировки по итогам недели №1 ([py-train01.ipynb](https://github.com/allatambov/PyReg26/blob/main/py-train01.ipynb)), решения (py-train01-solutions.ipynb)
+
+### Неделя 2. Описание данных. Датафреймы Pandas
+
+* Лекция 2. Описательные статистики ([слайды](https://disk.yandex.ru/d/jQE_J2-ssvAciQ))
+* Семинар 3. Описательные статистики в NumPy (py-seminar03.ipynb)
+* Семинар 4. Введение в датафреймы Pandas (py-seminar04.ipynb)
+* Задачи для тренировки по итогам недели №2
