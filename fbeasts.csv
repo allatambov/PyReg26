@@ -1,0 +1,82 @@
+Name,Class,Classification,Colour,Eye,Native,Size,Dragon
+Acromantula,Acromantula,XXXXX,Jet-Black,Black,Island of Borneo,180.0,0
+Basilisk,Basilisk,XXXXX,Green,Yellow,Greece,600.0,0
+Chimaera,Chimaera,XXXXX,Golden,White,Greece,,0
+Antipodean Opaleye,Dragon,XXXXX,Pearly,Multi-coloured,New Zealand,,1
+Chinese Fireball,Dragon,XXXXX,Scarlet,Yellow,China,300.0,1
+Common Welsh Green,Dragon,XXXXX,Green,No data,Wales,216.0,1
+Hebridean Black,Dragon,XXXXX,Dark,Brilliant purple,Scotland,360.0,1
+Hungarian Horntail,Dragon,XXXXX,Black,Yellow,Hungary,600.0,1
+Norwegian Ridgeback,Dragon,XXXXX,Dark green,No data,Norway,,1
+Peruvian Vipertooth,Dragon,XXXXX,Copper,No data,Peru,180.0,1
+Romanian Longhorn,Dragon,XXXXX,Dark green,No data,Romania,480.0,1
+Swedish Short-Snout,Dragon,XXXXX,Silvery blue,No data,Sweden,264.0,1
+Ukrainian Ironbelly,Dragon,XXXXX,Metallic grey-silver,Deep red,Ukraine,,1
+Lethifold,Lethifold,XXXXX,Black,No data,The tropics,,0
+Manticore,Manticore,XXXXX,Golden,No data,Greece,,0
+Nundu,Nundu,XXXXX,Yellow|Black,No data,East Africa,,0
+Quintaped,Quintaped,XXXXX,Red-brown,No data,Isle of Drear,,0
+Werewolf,Werewolf,XXXXX,Varies,Varies,World-wide,,0
+Centaur,Centaur,XXXX,Varies,Varies,Europe,,0
+Demiguise,Demiguise,XXXX,Beige|Silver,Brown,Far East,,0
+Erkling,Erkling,XXXX,Green,Yellow,Germany,36.0,0
+Erumpent,Erumpent,XXXX,Black,No data,Africa,,0
+Graphorn,Graphorn,XXXX,Greyish-purple,No data,Europe,,0
+Griffin,Griffin,XXXX,Brownish-yellow|White|Brown,Yellow,Greece,,0
+Kappa,Kappa,XXXX,Scaly,No data,Japan,,0
+Kelpie,Kelpie,XXXX,No data,No data,Great Britain|Ireland,,0
+Merpeople,Merpeople,XXXX,Varies,Varies,Greece,,0
+Occamy,Occamy,XXXX,Turquoise|Purple|Teal,No data,Far East|India,180.0,0
+Phoenix,Phoenix,XXXX,Scarlet|Golden,Black,Egypt|India|China,,0
+Re'em,Re'em,XXXX,Golden,No data,North America|Far East,,0
+Runespoor,Runespoor,XXXX,Orange|Black,No data,Africa,78.0,0
+Golden Snidget,Golden Snidget,XXXX,Golden,Red,No data,12.0,0
+Sphinx,Sphinx,XXXX,Brown,Hazel,Egypt,,0
+Tebo,Tebo,XXXX,Ashen,Brown,Congo,,0
+Thestral,Thestral,XXXX,Black,White,British Isles|France|Iberian Peninsula|Ireland,,0
+Troll,Troll,XXXX,Varies,Varies,Europe,144.0,0
+Unicorn,Unicorn,XXXX,White|Silver|Gold,No data,Europe,,0
+Yeti,Yeti,XXXX,Grey|White,No data,Tibet,180.0,0
+Ashwinder,Ashwinder,XXX,Pale-Grey,Red,World-wide,,0
+Billywig,Billywig,XXX,Bright blue,Grey,Australia,,0
+Bundimun,Bundimun,XXX,Green,Yellow,World-wide,,0
+Crup,Crup,XXX,White|Brown,Varies,World-wide,,0
+Doxy,Doxy,XXX,Purple|Brown|Black,No data,North America|Europe,,0
+Fire Crab,Fire Crab,XXX,Grey,Black,Fiji,,0
+Fwooper,Fwooper,XXX,Orange|Pink|Lime green|Yellow,,Africa,,0
+Glumbumble,Glumbumble,XXX,Grey,No data,Europe,,0
+Hippocampus,Hippocampus,XXX,Blue|Red,Varies,Greece,,0
+Hippogriff,Hippogriff,XXX,Stormy gray|Chestnut|Bronze|Pinkish roan|Inky black,Orange,Europe,,0
+Jarvey,Jarvey,XXX,Brown,Black,Great Britain|Ireland|North America,,0
+Knarl,Knarl,XXX,Brown,Black,Europe|North America,,0
+Kneazle,Kneazle,XXX,Varies,Varies,Great Britain,,0
+Leprechaun,Leprechaun,XXX,Green,No data,Ireland,,0
+Lobalug,Lobalug,XXX,Yellow,No data,North Sea,120.0,0
+Mackled Malaclaw,Mackled Malaclaw,XXX,Grey|Green,Black,Europe,12.0,0
+Moke,Moke,XXX,Silver green,No data,Great Britain|Ireland,10.0,0
+Murtlap,Murtlap,XXX,Beige,No data,Great Britain,,0
+Niffler,Niffler,XXX,Black,No data,Great Britain,,0
+Nogtail,Nogtail,XXX,No data,Black,Europe|Russia|North America|South America,,0
+Pixie,Pixie,XXX,Electric Blue,Black,England,8.0,0
+Plimpy,Plimpy,XXX,Yellowish,No data,World-wide,,0
+Pogrebin,Pogrebin,XXX,No data,No data,Russia,,0
+Red Cap,Red Cap,XXX,Green,Red,Europe,42.0,0
+Salamander,Salamander,XXX,Scarlet red,Black,World-wide,,0
+Sea serpent,Sea serpent,XXX,No data,No data,No data,,0
+Streeler,Streeler,XXX,Varies,No data,Africa,,0
+Augurey,Augurey,XX,Greenish-black,Blue,Great Britain|Ireland,,0
+Bowtruckle,Bowtruckle,XX,Green,Brown,England|Germany|Scandinavia,8.0,0
+Chizpurfle,Chizpurfle,XX,Brown|Green,Black,World-wide,0.05,0
+Clabbert,Clabbert,XX,Mottled green,Yellow,World-wide,,0
+Diricawl,Diricawl,XX,Bluish-pink,No data,Mauritius,,0
+Fairy,Fairy,XX,Varies,Varies,World-wide,3.0,0
+Ghoul,Ghoul,XX,Greyish green,Green,No data,,0
+Gnome,Gnome,XX,Brown|Lime,No data,Europe|North America,12.0,0
+Grindylow,Grindylow,XX,Sickly green,Yellow|White|Green,Great Britain|Ireland,60.0,0
+Imp,Imp,XX,Grey,Yellow,Great Britain|Ireland,7.0,0
+Jobberknoll,Jobberknoll,XX,Speckled blue,Black,Europe|North America,,0
+Mooncalf,Mooncalf,XX,Pink|Pale grey,Blue-green,World-wide,,0
+Porlock,Porlock,XX,Black|Red|Brown,Blue,England|Ireland,24.0,0
+Puffskein,Puffskein,XX,Custard,No data,No data,,0
+Flobberworm,Flobberworm,X,Brown,No data,No data,10.0,0
+Horklump,Horklump,X,Pink|Black,No data,Scandinavia,,0
