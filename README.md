@@ -63,6 +63,6 @@
 ### Неделя 2. Парная линейная регрессия. Метод наименьших квадратов
 
 * Практикум 2. Парная линейная регрессия. Метод наименьших квадратов ([practice02.ipynb](https://github.com/allatambov/PyReg26/blob/main/practice02.ipynb)), решения ([practice02-solutions.ipynb](https://github.com/allatambov/PyReg26/blob/main/practice02-solutions.ipynb))
-* Задачи для тренировки по итогам недели ([add02.ipynb](https://github.com/allatambov/PyReg26/blob/main/add02.ipynb)), решения ([add02-solutions.ipynb]())
+* Задачи для тренировки по итогам недели ([add02.ipynb](https://github.com/allatambov/PyReg26/blob/main/add02.ipynb)), решения ([add02-solutions.ipynb](https://github.com/allatambov/PyReg26/blob/main/add02-solutions.ipynb))
 
   
