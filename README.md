@@ -66,8 +66,9 @@
 * Задачи для тренировки по итогам недели ([add02.ipynb](https://github.com/allatambov/PyReg26/blob/main/add02.ipynb)), решения ([add02-solutions.ipynb](https://github.com/allatambov/PyReg26/blob/main/add02-solutions.ipynb))
 
 
-### Неделя 3. Парная линейная регрессия. Введение в проверку гипотез
+### Неделя 3. Парная линейная регрессия. Доверительный интервал для наклона регрессии
 
-* Практикум 3. Парная линейная регрессия. Введение в проверку гипотез ([practice03.ipynb](https://github.com/allatambov/PyReg26/blob/main/practice03.ipynb))
+* Практикум 3. Парная линейная регрессия. Введение в проверку гипотез ([practice03.ipynb](https://github.com/allatambov/PyReg26/blob/main/practice03.ipynb)), решения ([practice03-solutions.ipynb](https://github.com/allatambov/PyReg26/blob/main/practice03-solutions.ipynb))
+* Практикум 4. Доверительный интервал для наклона регрессии ([practice04.ipynb](https://github.com/allatambov/PyReg26/blob/main/practice04.ipynb), данные [sample.csv](https://github.com/allatambov/PyReg26/blob/main/sample.csv))
 
   
