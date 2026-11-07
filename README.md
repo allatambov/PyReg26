@@ -71,4 +71,7 @@
 * Практикум 3. Парная линейная регрессия. Введение в проверку гипотез ([practice03.ipynb](https://github.com/allatambov/PyReg26/blob/main/practice03.ipynb)), решения ([practice03-solutions.ipynb](https://github.com/allatambov/PyReg26/blob/main/practice03-solutions.ipynb))
 * Практикум 4. Доверительный интервал для наклона регрессии ([practice04.ipynb](https://github.com/allatambov/PyReg26/blob/main/practice04.ipynb), данные [sample.csv](https://github.com/allatambov/PyReg26/blob/main/sample.csv))
 
-  
+### Неделя 4. Множественная линейная регрессия
+
+* Практикум 5. Множественная линейная регрессия. Мера R2 ([practice05.ipynb](https://github.com/allatambov/PyReg26/blob/main/practice05.ipynb), данные [english.csv](https://github.com/allatambov/PyReg26/blob/main/english.csv))
+
