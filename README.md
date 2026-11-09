@@ -75,5 +75,5 @@
 
 ### Неделя 5. Множественная линейная регрессия
 
-* Практикум 5. Множественная линейная регрессия. Мера R2 ([practice05.ipynb](https://github.com/allatambov/PyReg26/blob/main/practice05.ipynb), данные [english.csv](https://github.com/allatambov/PyReg26/blob/main/english.csv))
+* Практикум 5. Множественная линейная регрессия. Мера R2 ([practice05.ipynb](https://github.com/allatambov/PyReg26/blob/main/practice05.ipynb), данные [english.csv](https://github.com/allatambov/PyReg26/blob/main/english.csv)), решения [practice05-solutions.ipynb](https://github.com/allatambov/PyReg26/blob/main/practice05-solutions.ipynb)
 
