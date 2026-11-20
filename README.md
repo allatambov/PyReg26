@@ -79,5 +79,5 @@
 
 ### Неделя 6. Линейные модели с фиктивными переменными
 
-* Практикум 6. Линейные модели с фиктивными переменными ([practice06.ipynb](https://github.com/allatambov/PyReg26/blob/main/practice06.ipynb)
+* Практикум 6. Линейные модели с фиктивными переменными ([practice06.ipynb](https://github.com/allatambov/PyReg26/blob/main/practice06.ipynb)), решения ([practice06-solutions.ipynb](https://github.com/allatambov/PyReg26/blob/main/practice06-solutions.ipynb))
 
