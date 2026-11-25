@@ -81,3 +81,12 @@
 
 * Практикум 6. Линейные модели с фиктивными переменными ([practice06.ipynb](https://github.com/allatambov/PyReg26/blob/main/practice06.ipynb)), решения ([practice06-solutions.ipynb](https://github.com/allatambov/PyReg26/blob/main/practice06-solutions.ipynb))
 
+### Неделя 6. Критерий Стьюдента для двух выборок
+
+* Практикум 7. Критерий Стьюдента для двух выборок и линейные модели ([practice07.ipynb](https://github.com/allatambov/PyReg26/blob/main/practice07.ipynb))
+
+## Задачи для тренировки (подготовка к практикуму)
+
+* Набор задач 1: [training_g01.ipynb](https://github.com/allatambov/PyReg26/blob/main/training_g01.ipynb)
+* Набор задач 2: [training_g02.ipynb](https://github.com/allatambov/PyReg26/blob/main/training_g02.ipynb)
+
